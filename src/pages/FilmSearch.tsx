@@ -59,7 +59,7 @@ const FilmSearch = () => {
             type='text'
             name=''
             id=''
-            placeholder='Enter a Film'
+            placeholder='Enter a Film please'
             onChange={(e) => setSearchInput(e.target.value)}
           />
           <button type='submit' id='searchBtn'>
